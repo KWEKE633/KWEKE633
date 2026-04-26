@@ -18,7 +18,7 @@
 ### 🏆 Competitive Programming
 競技プログラミング（主にAtCoder）に精力的に取り組んでいます。高速なアルゴリズムの実装や低レイヤの最適化に興味があります。
 
-* **Platform:** [AtCoder (KWEKE633)](https://atcoder.jp/users/Red_comcom)
+* **Platform:** [AtCoder (Red_comcom)](https://atcoder.jp/users/Red_comcom)
 * **Focus:** アルゴリズムの高速化 (SIMD等), データ構造 (Segment Tree, Treap etc.)
 * **Record:** * AtCoder Beginner Contest / Regular Contest 参加中
     * 学生向けFixstars高速化コンテスト2026　最終ランキング3位🥉
